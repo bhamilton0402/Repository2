@@ -1,0 +1,26 @@
+body {
+    background-color:orange;
+    text-align: center;
+}
+
+.orange{
+    background-color:blueviolet;
+    text-align: center;
+}
+
+img{
+    box-shadow:15px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color:yellow;
+}
